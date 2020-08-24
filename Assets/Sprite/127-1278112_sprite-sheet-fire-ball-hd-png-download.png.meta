@@ -1,0 +1,1375 @@
+fileFormatVersion: 2
+guid: ebacc1e60324b2c43899753b04e1dbaa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7214411768785510350
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_0
+  - first:
+      213: -7740412733981586380
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_1
+  - first:
+      213: 6284154340659351667
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_2
+  - first:
+      213: -4388520953502756303
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_3
+  - first:
+      213: -7527540548901732970
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_4
+  - first:
+      213: -6850061701195047628
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_5
+  - first:
+      213: -2325195520945115528
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_6
+  - first:
+      213: -2664624459056306560
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_7
+  - first:
+      213: -1623602523624429198
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_8
+  - first:
+      213: 4320925047510998717
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_9
+  - first:
+      213: -1837645488067478437
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_10
+  - first:
+      213: 8034982454204762992
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_11
+  - first:
+      213: -8913282349702553328
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_12
+  - first:
+      213: -719246355223686139
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_13
+  - first:
+      213: 5111935734118965587
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_14
+  - first:
+      213: -8164617504440185634
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_15
+  - first:
+      213: -9075281729866877340
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_16
+  - first:
+      213: 13169639044110057
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_17
+  - first:
+      213: 6442022731303211230
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_18
+  - first:
+      213: 930982400815524457
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_19
+  - first:
+      213: -4386874763232470899
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_20
+  - first:
+      213: 1909407733005591914
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_21
+  - first:
+      213: -7123656536394417675
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_22
+  - first:
+      213: -445822426062480441
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_23
+  - first:
+      213: 1804865670679760216
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_24
+  - first:
+      213: 7004151246105712046
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_25
+  - first:
+      213: 7656048364212968699
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_26
+  - first:
+      213: -1120722086556678155
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_27
+  - first:
+      213: -5051828778800614283
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_28
+  - first:
+      213: 8691707722310676823
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_29
+  - first:
+      213: -5322133826224831772
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_30
+  - first:
+      213: -9062372735592771359
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_31
+  - first:
+      213: -6239473540178046264
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_32
+  - first:
+      213: -6147175621470763808
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_33
+  - first:
+      213: -3484295290073257211
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_34
+  - first:
+      213: 8076752451771498478
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_35
+  - first:
+      213: -1423431441842217400
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_36
+  - first:
+      213: -8248113336690663512
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_37
+  - first:
+      213: -2995309642767869902
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_38
+  - first:
+      213: 8527328010558914564
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_39
+  - first:
+      213: -5248439960689875514
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_40
+  - first:
+      213: -5708230855299419113
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_41
+  - first:
+      213: 18402351089521623
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_42
+  - first:
+      213: -8715063793980496051
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_43
+  - first:
+      213: -7730963650906837330
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_44
+  - first:
+      213: -6070148760061465995
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_45
+  - first:
+      213: -4225614727412409647
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_46
+  - first:
+      213: -2500264750496992785
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_47
+  - first:
+      213: 6799257099904272340
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_48
+  - first:
+      213: -5715720747213511746
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_49
+  - first:
+      213: -6664582087505912075
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_50
+  - first:
+      213: -7807631690651730995
+    second: 127-1278112_sprite-sheet-fire-ball-hd-png-download_51
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 480
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d148b16dcf80c645b6c30f0b9b17f06
+      internalID: -7214411768785510350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 477
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3aa0bea5eda644bafcb9e6308eace1
+      internalID: -7740412733981586380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 476
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3967daf5284e0946b1944eed3c0c100
+      internalID: 6284154340659351667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_3
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 474
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb867f8896173644940f1f41e873079
+      internalID: -4388520953502756303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_4
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 473
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ea9246f09f8384ea776675d9f88823
+      internalID: -7527540548901732970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_5
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 471
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe71057860e06b4f9d35ab9ac292c58
+      internalID: -6850061701195047628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_6
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 469
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484caf06529c4f04b990fefd9063d69f
+      internalID: -2325195520945115528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_7
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 468
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd38c02b11412b04ebfee22d2b66ed2c
+      internalID: -2664624459056306560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_8
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 364
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a165b4e40ac962e499b362ac753aa022
+      internalID: -1623602523624429198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 361
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63980383870d419478af147936d52893
+      internalID: 4320925047510998717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 361
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e6decbfbd42784c9b8163d28227845
+      internalID: -1837645488067478437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 361
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c1cced6c4e15e4d80a00a43f85d8d3
+      internalID: 8034982454204762992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_12
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 359
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d32188cd2503114d864efc21fb8fae0
+      internalID: -8913282349702553328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_13
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 357
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dba3fdbcd25d04439f555dd698c8a05
+      internalID: -719246355223686139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_14
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 356
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5105a72104f8a4b886a2695621f111
+      internalID: 5111935734118965587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_15
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 355
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7060afb32d558564882c465ea208e444
+      internalID: -8164617504440185634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 251
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce279ce28181a74892340630c8ead9b
+      internalID: -9075281729866877340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 251
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95987f88d39c68a498f047d25ec76adc
+      internalID: 13169639044110057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_18
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 249
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e833baa76fd99a145a47d958073fcbfd
+      internalID: 6442022731303211230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_19
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 249
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07576be838bc55345a08d0f859119af7
+      internalID: 930982400815524457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_20
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 250
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d595741763518c04e92c89910c60dda5
+      internalID: -4386874763232470899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_21
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 249
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89254ab629a820845932ad3d333584a7
+      internalID: 1909407733005591914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_22
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 249
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c6937ef4c37cd4faf925dccefc4885
+      internalID: -7123656536394417675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_23
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 248
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950e65ed885a7c34c8cc668106c12cad
+      internalID: -445822426062480441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 143
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2566b54459c41ef45b2209a55a61dae1
+      internalID: 1804865670679760216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_25
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 142
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14981c37e8aab8846944f3491e7da30a
+      internalID: 7004151246105712046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 141
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18c85c0210e14e48b6c2a64ebc5b687
+      internalID: 7656048364212968699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_27
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 140
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56873636a1ad6ae4f824981a5d18c455
+      internalID: -1120722086556678155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_28
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 208
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f16dae15e73d54587831af5aa58349
+      internalID: -5051828778800614283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_29
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 211
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a2e5969e041874aae0fdf947e98231
+      internalID: 8691707722310676823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 140
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8856ed47a724a974099652f257e16f4c
+      internalID: -5322133826224831772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_31
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 138
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6feaf864acac95845bab8bfebf0ed01b
+      internalID: -9062372735592771359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_32
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 52
+        width: 72
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6a985f0fb44de4abc5034a713ab481
+      internalID: -6239473540178046264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_33
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 140
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e485fe92d2c3afd409be738e72e1e52b
+      internalID: -6147175621470763808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_34
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 36
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ab7813eacddd841ba791000ba9ba88
+      internalID: -3484295290073257211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_35
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 40
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca70ff525e261948a6d63dcf686e88f
+      internalID: 8076752451771498478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_36
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 39
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b34309d68e6f95439a17545aae8548e
+      internalID: -1423431441842217400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_37
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 38
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b941bdc959ec164d9b151e45b4c73d5
+      internalID: -8248113336690663512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_38
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 40
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4dde7fe1b6a8140bfd63d584aaeb83
+      internalID: -2995309642767869902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_39
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 74
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e180143bfabf64bb780d71dccaf534
+      internalID: 8527328010558914564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_40
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 95
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906c88e2e56800b4d9f82578ab2d1ce7
+      internalID: -5248439960689875514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_41
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 90
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891ec74feb80e4443af23e18a93e234f
+      internalID: -5708230855299419113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_42
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 70
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b302108724a14cf4f9f5e1af83353f2c
+      internalID: 18402351089521623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_43
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 88
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b298346a3c80d5547a2364cc69b8629e
+      internalID: -8715063793980496051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_44
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 80
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a40eda51dfda604bb590f2a7b731109
+      internalID: -7730963650906837330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_45
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 64
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9637c859ab42fe4448c097c204b0f3aa
+      internalID: -6070148760061465995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_46
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 60
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7feff47b211146448b1c5a4ee8ff679
+      internalID: -4225614727412409647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_47
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 54
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16beff4f25e09f4ea709b99634e032f
+      internalID: -2500264750496992785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_48
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 60
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033d838209380ed41a488685fbef0db9
+      internalID: 6799257099904272340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_49
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 45
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a17ef1a65c2db4d8d75525b9f6d76c
+      internalID: -5715720747213511746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_50
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 39
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ddda33c83a6e045aafa2c845ce39e6
+      internalID: -6664582087505912075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 127-1278112_sprite-sheet-fire-ball-hd-png-download_51
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 39
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525a260628952c24f92e3ba526e017ba
+      internalID: -7807631690651730995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
